@@ -1,0 +1,37 @@
+{
+  "data": [
+      {
+        "url": "https://open.spotify.com/track/5txoZyuAmtCfmDjUCEphWm?si=vYhvrCn4RFGaD5oX1oPvHw",
+        "artist": "Queen",
+        "title": "Somebody To Love",
+        "cover":"https://i.scdn.co/image/8acd4370d05c246bfc4aa387f52e3e78af598f3b",
+        "genres": ["Rock", "Theme"],
+        "year": "2018"
+      },
+      {
+        "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB?si=EoWsZW7bSLKL1v98myTryg",
+        "artist": "Souls Of Mischief",
+        "title": "93 'Til Infinity",
+        "cover":"https://i.scdn.co/image/ab67616d0000b27343969ecfe687484121805478",
+        "genres": ["Soul"],
+        "year": "1993"
+      },
+      {
+        "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6?si=5-VPRXq6Qee4fg4U352UjQ",
+        "artist": "Smif-N-Wessun",
+        "title": "Dah Shinin'",
+        "cover":"https://i.scdn.co/image/ab67616d0000b273721765a958512981797ca47a",
+        "genres": ["Hip hop"],
+        "year": "1995"
+      },
+      {
+        "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6?si=5-VPRXq6Qee4fg4U352UjQ",
+        "artist": "Lil Yachty",
+        "title": "Nuthin' 2 Prove",
+        "cover":"https://pl.scdn.co/images/pl/default/2e57bc793a55000b4c53d3378e5ee6a4aa53762e",
+        "genres": ["Rap", "Gangster"],
+        "year": "2018"
+      }
+  ]
+}
+        
