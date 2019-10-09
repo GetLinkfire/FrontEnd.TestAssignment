@@ -26,7 +26,7 @@ As a user you want to be able to add new entries to the collection and fill out 
 * Spotify link for the album
 
 ### 3. View the music collection
-As a user you want a nice overview of your music collection. Create a page where the user can browse the music in the database, this can be a list, a grid or any third way. You are free to choose any css library to style it.
+As a user you want a nice overview of your music collection. Create a page where the user can browse the music, this can be a list, a grid or any third way. You are free to choose any css library to style it.
 
 ### 4. Edit your music collection
 Anyone can make a mistake, so sometimes it is nice to be able to edit entries. Allow the user to edit the information for a music entry and save the information.
